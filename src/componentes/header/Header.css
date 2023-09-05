@@ -5,7 +5,16 @@ header{
     padding: 20px 10vw;
     align-items: center;
 }
-
+.logo1{
+    background: url("../../assets/pngfind.com-barbie-logo-png-667657.png");
+    height: 150px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 20px;
+  
+    
+}
 header nav ul li a{
     text-decoration: none;
     padding: 15px;
@@ -16,4 +25,10 @@ header nav ul{
     display: flex;
     list-style: none;
     gap: 15px;
+    align-items: center;
+}
+.barrapesquisa{
+    height: 30px;
+    border: 1px solid #f0f0f0;
+    width: 200px;
 }
