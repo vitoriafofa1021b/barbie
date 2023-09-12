@@ -1,0 +1,31 @@
+[
+  {
+    "_id": {
+      "$oid": "64f743fc249ef74c29691f35"
+    },
+    "nome": "Peito e Bíceps A",
+    "diaSemana": "Sexta",
+    "exercicios": [
+      {
+        "nome": "Supino",
+        "series": 4,
+        "repeticoes": 15
+      },
+      {
+        "nome": "Rosca Martelo",
+        "series": 4,
+        "repeticoes": 15
+      },
+      {
+        "nome": "Peck Deck",
+        "series": 4,
+        "repeticoes": 15
+      },
+      {
+        "nome": "Rosca scott",
+        "series": 5,
+        "repeticoes": 12
+      }
+    ]
+  }
+]

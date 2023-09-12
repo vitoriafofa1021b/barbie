@@ -27,8 +27,4 @@ header nav ul{
     gap: 15px;
     align-items: center;
 }
-.barrapesquisa{
-    height: 30px;
-    border: 1px solid #f0f0f0;
-    width: 200px;
-}
+
