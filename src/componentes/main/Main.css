@@ -14,13 +14,13 @@ justify-content: center;*/
 }
 .barrapesquisa{
     height: 30px;
-    border: 1px solid  #ED419A;
+    border: 1px solid  #000000;
     width: 200px;
     border-radius: 5px;
     font-size: 1.4rem;
 }
 .barrapesquisa:focus-visible{
-    outline: 1px solid  #ED419A;
+    outline: 1px solid  #000000;
 }
 .pesquisa{
     padding: 50px;
