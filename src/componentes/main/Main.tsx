@@ -28,7 +28,7 @@ const filmes: FilmesType[] = [
 {
   id:3,
   titulo:"Barbie e os Segredos das Fadas" ,
-  sinopse:"Mundos mágicos, fadas e cavalos voadores são alguns dos elementos encontrados neste filme da Barbie.Ela precisa viajar a um mundo encantado para salvar KenNesta aventura, serão revelados segredos e algumas amizades serão testadas.",
+  sinopse:"Mundos mágicos, fadas e cavalos voadores são alguns dos elementos encontrados neste filme da Barbie.Ela precisa viajar a um mundo encantado para salvar Ken Nesta aventura, serão revelados segredos e algumas amizades serão testadas.",
   imagem:"/Barbie_Fairy_Secret.png" 
 },
 {

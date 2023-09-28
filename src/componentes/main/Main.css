@@ -5,6 +5,7 @@
     justify-content: center;
     column-gap: 30px;
     row-gap: 30px;
+    min-height: 50vh;
 
 
 /*gap: 20px;
